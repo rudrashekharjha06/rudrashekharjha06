@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LittleLemon restaurant website](https://github.com/rudrashekharjha06/Littlelemon/tree/main)
 
-- View my previous works [My repos](https://github.com/rudrashekharjha06?tab=repositories)
+- View my previous works on [My repos](https://github.com/rudrashekharjha06?tab=repositories)
 
 - 🌱 I’m currently learning **Mongo DB, React, Express, Node js**
 
